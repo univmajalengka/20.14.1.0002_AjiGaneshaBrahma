@@ -12,7 +12,7 @@ begin
 clrscr;
         repeat
         begin
-        writeln('persib juara');
+        writeln('win');
         i:= i + 1;
         end;
         until i = 10 ;
